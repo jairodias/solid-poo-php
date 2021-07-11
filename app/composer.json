@@ -1,0 +1,15 @@
+{
+    "name": "jairo/app_carinho_compras",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jairo Dias",
+            "email": "jairopereira_dias@hotmail.com"
+        }
+    ],
+    "require": {}
+}
