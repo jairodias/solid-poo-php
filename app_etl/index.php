@@ -6,7 +6,7 @@ use src\Leitor;
 
 $leitor = new Leitor();
 $leitor->setDiretorio(__DIR__."/arquivos");
-$leitor->setArquivo("dados.csv");
+$leitor->setArquivo("dados.txt");
 
 echo "<pre>";
 print_r($leitor->lerArquivo());
